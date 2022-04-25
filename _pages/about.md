@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Archivist, Librarian, Joyce scholar."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Amanda Greenwood is a project archivist at Union College in Schenectady, New York. She earned an MSIS in Archives and Records Administration from the University at Albany, State University of New York and an ALM in English from Harvard University. Before becoming an archivist, she worked as an adjunct lecturer in South Korea and the United States from 2006-2020 and taught courses on hard-boiled fiction, film noir, modernism, and Irish literature. Since 2008, she has been a board member of the James Joyce Society of Korea and the English language editor of the society’s journal, the James Joyce Journal. Her research interests focus on the intersection of postcolonialism and masculinity in the works of James Joyce, linguistics and gender in hard-boiled fiction, trauma and emotions in archival work, and web archiving labor and maintenance.
 
 A data-driven personal website
 ======
