@@ -1,6 +1,6 @@
 ---
 title: "Parliament of Owls Digital Collection"
-excerpt: "<br/><a href"https://parliamentofowls.omeka.net/" target="_blank"><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/Korean bone box top.jpg'>"
 collection: portfolio
 ---
 
