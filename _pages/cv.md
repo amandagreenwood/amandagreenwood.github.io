@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="/files/Amanda_Greenwood_CV_2022.pdf" title="my cv" style="max-width:100%">
+<embed src="/files/Amanda_Greenwood_CV_2022.pdf" type="application/pdf" style="width:100%" />
 <!--
 Education
 ======
