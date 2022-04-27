@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="/files/Amanda_Greenwood_CV_2022.pdf" title="my cv"></iframe>
+<iframe src="/files/Amanda_Greenwood_CV_2022.pdf" title="my cv" style="max-width:100%"></iframe>
 <!--
 Education
 ======
